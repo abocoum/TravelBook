@@ -16,11 +16,4 @@
 		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>.link_to_grails_plugins</name>
-			<type>2</type>
-			<locationURI>GRAILS_ROOT/2.1.1/projects/TravelBook/plugins</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
